@@ -1,0 +1,20 @@
+{
+  "name": "HCDC RHM System",
+  "short_name": "HCDC RHM",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff",
+  "icons": [
+    {
+      "src": "https://i.ibb.co/0yhLRMGr/pregnant-woman.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://i.ibb.co/0yhLRMGr/pregnant-woman.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
